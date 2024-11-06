@@ -13,7 +13,6 @@ Appointment Booking: Integrated with Calendy to easily book appointments with me
 
 Responsive Design: Stylish and responsive user interface using Tailwind CSS.
 
-Secure Payments: Integration with payment systems for any financial transactions (if applicable).
 
 Technologies Used
 
@@ -27,17 +26,6 @@ Authentication: Firebase Authentication
 
 Appointment Scheduling: Calendy
 
-Deployment: GitHub, Vercel/Netlify (or your chosen deployment platform)
-
-Installation
-
-Prerequisites
-
-Node.js
-
-npm (Node Package Manager)
-
-MongoDB (for local development)
 
 Usage
 
